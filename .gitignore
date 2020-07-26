@@ -543,3 +543,8 @@ dmypy.json
 
 ### Jupyter Book ###
 _build/html/
+
+### Local Virtual Environments ###
+.env/
+venv/
+env/
