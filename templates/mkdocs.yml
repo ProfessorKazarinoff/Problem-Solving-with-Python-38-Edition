@@ -1,7 +1,7 @@
 # templates/mkdocs.yml
 
 site_name: 'Problem Solving with Python'
-site_description: 'Website companion for the book Problem Solving with Python by Peter D. Kazarinoff'
+site_description: 'Website companion for the book Problem Solving with Python 3.8 Edition by Peter D. Kazarinoff'
 site_author: 'Peter D. Kazarinoff'
 repo_url: 'https://github.com/ProfessorKazarinoff/Problem-Solving-with-Python-38-Edition'
 
@@ -54,15 +54,15 @@ copyright: 'Text Licensed Under Creative Commons Attribution-ShareAlike 4.0'
 
 # Content
 nav:
-    - Home: index.ipynb
-    - Preface:
-        - Preface: 00-Preface/00-00-Preface.ipynb
-        - Motivation: 00-Preface/00-01-Motivation.ipynb
-        - Acknowledgments: 00-Preface/00-02-Acknowledgments.ipynb
-        - Supporting Materials: 00-Preface/00-03-Supporting-Materials.ipynb
-        - Formatting Conventions: 00-Preface/00-04-Formatting-Conventions.ipynb
-        - Errata: 00-Preface/00-05-Errata.ipynb
-    - Chapter 1 Orientation:
-        - Introduction: 01-Orientation/01-00-Orientation.ipynb
-        - Why Python?: 01-Orientation/01-01-Why-Python.ipynb
-        - The Anaconda Distribution of Python: 01-Orientation/01-02-The-Anaconda-Distribution-of-Python.ipynb
+  - Home: index.ipynb
+  - Preface:
+    - Preface: 00-Preface/00-00-Preface.ipynb
+    - Motivation: 00-Preface/00-01-Motivation.ipynb
+    - Acknowledgments: 00-Preface/00-02-Acknowledgments.ipynb
+    - Supporting Materials: 00-Preface/00-03-Supporting-Materials.ipynb
+    - Formatting Conventions: 00-Preface/00-04-Formatting-Conventions.ipynb
+    - Errata: 00-Preface/00-05-Errata.ipynb
+  - Chapter 1 Orientation:
+    - Introduction: 01-Orientation/01-00-Orientation.ipynb
+    - Why Python?: 01-Orientation/01-01-Why-Python.ipynb
+    - The Anaconda Distribution of Python: 01-Orientation/01-02-The-Anaconda-Distribution-of-Python.ipynb
