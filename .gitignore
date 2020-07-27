@@ -548,3 +548,7 @@ _build/html/
 .env/
 venv/
 env/
+venv-jupyterbook/
+
+### Build Website ###
+website/
