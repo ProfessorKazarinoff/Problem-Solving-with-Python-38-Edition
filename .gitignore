@@ -557,3 +557,9 @@ website/
 
 ### Built pdf or .tex ###
 pdf/
+
+### Supporting LaTeX files ###
+.aux
+.dvi
+.log
+.toc
