@@ -89,13 +89,23 @@ def pdf(c):
     export_tex(nbnode, output_file_path, template_file_path)
     # modify TOC in .tex file so that chapter numbering works
     convert_TOC(output_file_path)
+    # copy the copywrite and dedication page .tex files to the pdf/ dir
+    f_names = ["copywrite_page.tex", "dedication_page.tex"]
+    for f_name in f_names:
+        copyfile(
+            Path(os.getcwd(), "templates", "latex", f_name),
+            Path(os.getcwd(), "pdf", f_name),
+        )
+        print(f"Coppied {f_name} to pdf/ directory")
     # Print the final output
     print(
         f"Conversion complete.... \n Find the exported .tex file in: \n {output_file_path}"
     )
 
+
 def convert_TOC(output_file_path: Path):
     pass
+
 
 def export_tex(
     combined_nb_node: NotebookNode, output_file_path: Path, template_file_path=None
