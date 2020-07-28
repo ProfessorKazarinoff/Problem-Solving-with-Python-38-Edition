@@ -550,6 +550,7 @@ venv/
 env/
 venv-jupyterbook/
 venv-website/
+venv-pdf/
 
 ### Build Website ###
 website/
