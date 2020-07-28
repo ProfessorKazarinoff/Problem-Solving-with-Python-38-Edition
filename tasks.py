@@ -18,7 +18,7 @@ def build(c):
     a task to build an mkdocs website from the src notebooks
     """
     print("Building...")
-    if Path('website'):
+    if Path('website').is_dir():
         print("Found website directory, deleting...")
         rmtree('website')
     print("Creating empty website directory...")
