@@ -70,3 +70,4 @@ nav:
     - Introduction: 01-Orientation/01-00-Orientation.ipynb
     - Why Python?: 01-Orientation/01-01-Why-Python.ipynb
     - The Anaconda Distribution of Python: 01-Orientation/01-02-The-Anaconda-Distribution-of-Python.ipynb
+    - Installing Anaconda on Windows: 01-Orientation/01-03-Installing-Anaconda-on-Windows.ipynb
