@@ -553,3 +553,6 @@ venv-website/
 
 ### Build Website ###
 website/
+
+### Built pdf or .tex ###
+pdf/
