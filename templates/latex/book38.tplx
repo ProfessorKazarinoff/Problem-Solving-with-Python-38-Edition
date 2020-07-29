@@ -63,11 +63,11 @@
         \newpage
         \input{dedication_page.tex}
         \newpage
-        %\tableofcontents
-        %{
-        %    \hypersetup{linkcolor=black}
-        %    \tableofcontents
-        %}
+        %\tableofcontents % works on miktex-pdflatex on Ubuntu 20.04
+        {
+            \hypersetup{linkcolor=black} % works in XeLaTeX on Windows10
+            \tableofcontents
+        }
     ((* endblock maketitle *))
     ((* block abstract *))((* endblock abstract *))
 ((* endblock predoc *))
