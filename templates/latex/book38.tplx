@@ -57,12 +57,17 @@
 
 ((* block predoc *))
     ((* block maketitle *))
+        
         \maketitle
         \input{copywrite_page.tex}
         \newpage
         \input{dedication_page.tex}
         \newpage
-        \tableofcontents
+        %\tableofcontents
+        %{
+        %    \hypersetup{linkcolor=black}
+        %    \tableofcontents
+        %}
     ((* endblock maketitle *))
     ((* block abstract *))((* endblock abstract *))
 ((* endblock predoc *))
