@@ -60,7 +60,6 @@ copyright: 'Text Licensed Under Creative Commons Attribution-ShareAlike 4.0'
 nav:
   - Home: index.ipynb
   - Preface:
-    - Preface: 00-Preface/00-00-Preface.ipynb
     - Motivation: 00-Preface/00-01-Motivation.ipynb
     - Acknowledgments: 00-Preface/00-02-Acknowledgments.ipynb
     - Supporting Materials: 00-Preface/00-03-Supporting-Materials.ipynb
