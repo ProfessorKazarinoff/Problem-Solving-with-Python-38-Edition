@@ -70,3 +70,15 @@ nav:
     - Why Python?: 01-Orientation/01-01-Why-Python.ipynb
     - The Anaconda Distribution of Python: 01-Orientation/01-02-The-Anaconda-Distribution-of-Python.ipynb
     - Installing Anaconda on Windows: 01-Orientation/01-03-Installing-Anaconda-on-Windows.ipynb
+
+  - Chapter 10 Symbolic Math:
+    - Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
+    - SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
+    - Installing SymPy: 10-Symbolic-Math/10-02-Installing-SymPy.ipynb
+    - Defining Variables: 10-Symbolic-Math/10-03-Defining-Variables.ipynb
+    - Expressions and Substitutions: 10-Symbolic-Math/10-04-Expressions-and-Substitutions.ipynb
+    - Equations: 10-Symbolic-Math/10-05-Equations.ipynb
+    - Solving Equations: 10-Symbolic-Math/10-06-Solving-Equations.ipynb
+    - Solving Two Equations for Two Unknows: 10-Symbolic-Math/10-07-Solving-Two-Equations-for-Two-Unknowns.ipynb
+    - Summary: 10-Symbolic-Math/10-08-Summary.ipynb
+    - Review Questions: 10-Symbolic-Math/10-09-Review-Questions
