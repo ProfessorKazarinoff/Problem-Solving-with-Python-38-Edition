@@ -16,6 +16,7 @@ from os import chdir, getcwd, listdir
 import os
 import re
 import sys
+import datetime
 
 from invoke import task
 import nbformat
@@ -83,7 +84,8 @@ def pdf(c):
     print("Merging all notebooks into one big notebook...")
     nbnode = merge_notebooks(nb_path_lst)
     # export notebook node into a .tex file using templates
-    output_file_path = Path(os.getcwd(), "pdf", "out.tex")
+    d = datetime.datetime.now()
+    output_file_path = Path(os.getcwd(), "pdf", f"Problem_Solving_with_Python_38_Edition_{d:%Y}_{d:%m}_{d:%d}.tex")
     template_file_path = Path(os.getcwd(), "templates", "latex", "book38.tplx")
     print("Attempting to produce a .tex file from the big combined notebook...")
     export_tex(nbnode, output_file_path, template_file_path)
