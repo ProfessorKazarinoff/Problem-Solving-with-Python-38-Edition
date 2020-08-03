@@ -78,6 +78,9 @@ nav:
     - 3.5 Print Statements: 03-The-Python-REPL/03-05-Print-Statements.ipynb
     - 3.6 Summary: 03-The-Python-REPL/03-06-Summary.ipynb
     - 3.7 Review Questions: 03-The-Python-REPL/03-07-Review-Questions.ipynb
+  - Chapter 4 Data Types and Variables:
+    - 4.1 Introduction: 04-Data-Types-and-Variables/04-01-Introduction.ipynb
+    
   - Chapter 10 Symbolic Math:
     - 10.1 Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
     - 10.2 SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
