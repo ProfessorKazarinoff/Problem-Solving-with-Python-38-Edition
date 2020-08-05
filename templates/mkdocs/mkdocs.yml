@@ -73,7 +73,7 @@ nav:
   - Chapter 3 The Python REPL:
     - 3.1 Introduction: 03-The-Python-REPL/03-01-Introduction.ipynb
     - 3.2 Python as a Calculator: 03-The-Python-REPL/03-02-Python-as-a-Calculator.ipynb
-    - 3.3 The Python REPL: 03-The-Python-REPL/03-03-Variables.ipynb
+    - 3.3 Variables: 03-The-Python-REPL/03-03-Variables.ipynb
     - 3.4 String Operations: 03-The-Python-REPL/03-04-String-Operations.ipynb
     - 3.5 Print Statements: 03-The-Python-REPL/03-05-Print-Statements.ipynb
     - 3.6 Summary: 03-The-Python-REPL/03-06-Summary.ipynb
@@ -83,6 +83,7 @@ nav:
     - 4.2 Data Types and Variables: 04-Data-Types-and-Variables/04-02-Numeric-Data-Types.ipynb
     - 4.3 Boolean Data Type: 04-Data-Types-and-Variables/04-03-Boolean-Data-Type.ipynb
     - 4.4 Strings: 04-Data-Types-and-Variables/04-04-Strings.ipynb
+    - 4.5 Lists: 04-Data-Types-and-Variables/04-05-Lists.ipynb
   - Chapter 10 Symbolic Math:
     - 10.1 Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
     - 10.2 SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
