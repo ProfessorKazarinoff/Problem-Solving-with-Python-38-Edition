@@ -563,3 +563,7 @@ pdf/
 .dvi
 .log
 .toc
+
+venv-write/
+venv-pdf/
+venv-website/
