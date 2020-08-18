@@ -90,6 +90,13 @@ nav:
     - 4.6 Dictionaries and Tuples: 04-Data-Types-and-Variables/04-06-Dictionaries-and-Tuples.ipynb
     - 4.7 Summary: 04-Data-Types-and-Variables/04-07-Summary.ipynb
     - 4.8 Review Questions: 04-Data-Types-and-Variables/04-08-Review-Questions.ipynb
+  - Chapter 5 NumPy and Arrays:
+    - 5.1 Introduction: 05-NumPy-and-Arrays/05-01-Introduction.ipynb
+    - 5.2 NumPy: 05-NumPy-and-Arrays/05-02-NumPy.ipynb
+    - 5.3 Installing NumPy: 05-NumPy-and-Arrays/05-03-Installing-NumPy.ipynb
+    - 5.4 Python Lists and NumPy Arrays: 05-NumPy-and-Arrays/05-04-Python-Lists-and-NumPy-Arrays.ipynb
+    - 5.5 Array Creation: 05-NumPy-and-Arrays/05-05-Array-Creation.ipynb
+    - 5.6 Array Indexing: 05-NumPy-and-Arrays/05-06-Array-Indexing.ipynb
   - Chapter 10 Symbolic Math:
     - 10.1 Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
     - 10.2 SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
