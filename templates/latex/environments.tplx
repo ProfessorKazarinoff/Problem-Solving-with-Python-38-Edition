@@ -44,10 +44,10 @@ title=Note }
 
 \newenvironment{alert-info}
 	{
-		\begin{alert-info-box}
+		\begin{alert-info-box}{}
 	}
 	{
-		\end{alert-info-box}
+		\end{alert-info-box}{}
 	}
 
 % in cell metadata
