@@ -37,4 +37,24 @@
 %  }
 %}
 
+%%%% Gray box with light gray interior and rounded corners to surround notes %%%
+\newtcolorbox[auto counter,number within=chapter]{alert-info-box}[2][]{%
+colback=gray!5!white,colframe=gray!75!black,fonttitle=\bfseries,
+title=Note }
+
+\newenvironment{alert-info}
+	{
+		\begin{alert-info-box}
+	}
+	{
+		\end{alert-info-box}
+	}
+
+% in cell metadata
+%{
+%  "latex": {
+%    "environment": "alert-info"
+%  }
+%}
+
 % end environments.tplx

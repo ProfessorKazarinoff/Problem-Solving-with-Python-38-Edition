@@ -2,6 +2,7 @@
 
 \usepackage{pmboxdraw}
 \usepackage{verbatim}
+\usepackage[breakable]{tcolorbox}
 \usepackage{listings}
 \usepackage[T1]{fontenc} % Nicer default font (+ math font) than Computer Modern for most use cases
 \setlength{\parskip}{0.5em} %for a space between paragraphs that is not a full space
