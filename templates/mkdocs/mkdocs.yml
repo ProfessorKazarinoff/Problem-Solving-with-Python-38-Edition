@@ -99,6 +99,7 @@ nav:
     - 5.4 Python Lists and NumPy Arrays: 05-NumPy-and-Arrays/05-04-Python-Lists-and-NumPy-Arrays.ipynb
     - 5.5 Array Creation: 05-NumPy-and-Arrays/05-05-Array-Creation.ipynb
     - 5.6 Array Indexing: 05-NumPy-and-Arrays/05-06-Array-Indexing.ipynb
+    - 5.7 Array Slicing: 05-NumPy-and-Arrays/05-07-Array-Slicing.ipynb
   - Chapter 10 Symbolic Math:
     - 10.1 Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
     - 10.2 SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
