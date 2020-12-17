@@ -102,6 +102,8 @@ nav:
     - 5.7 Array Slicing: 05-NumPy-and-Arrays/05-07-Array-Slicing.ipynb
     - 5.8 Array Operations: 05-NumPy-and-Arrays/05-08-Array-Operations.ipynb
     - 5.9 Systems of Linear Equations: 05-NumPy-and-Arrays/05-09-Systems-of-Linear-Equations.ipynb
+    - 5.10 Summary: 05-NumPy-and-Arrays/05-10-Summary.ipynb
+    - 5.10 Summary: 05-NumPy-and-Arrays/05-11-Review-Questions.ipynb
   - Chapter 10 Symbolic Math:
     - 10.1 Introduction: 10-Symbolic-Math/10-00-Introduction.ipynb
     - 10.2 SymPy: 10-Symbolic-Math/10-01-SymPy.ipynb
