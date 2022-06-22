@@ -6,5 +6,5 @@ matplotlib==3.2.2
 mkdocs==1.1.2
 mkdocs-material==5.5.0
 mknotebooks==0.3.6
-numpy==1.18.5
+numpy==1.22.0
 sympy==1.6.1
